@@ -1,1 +1,2 @@
 D:\repositoriolocal\fundamentosUPC\secion1\appsecion1\appsecion1\bin\Debug\appsecion1.exe.config
+D:\repppp\fundamentosUPC\secion1\appsecion1\appsecion1\bin\Debug\appsecion1.exe.config
